@@ -8,7 +8,9 @@ body {
   font-family: "Poppins";
 }
 
-
+.min-width {
+  min-width: 80%;
+}
 /* latin-ext */
 @font-face {
   font-family: 'Poppins';
@@ -493,18 +495,4 @@ div.cvideo > div > div > div > div > div:hover {
 div.cvideo > div > div > div > div > div > svg {
   height: 1.5rem;
   width: 1.5rem;
-}
-
-.yvw {
-  position: relative;
-  padding-top: 66.66666666666666%;
-}
-
-.yvw2 {
-  border: none;
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 100%;
-  width: 100%;
 }
